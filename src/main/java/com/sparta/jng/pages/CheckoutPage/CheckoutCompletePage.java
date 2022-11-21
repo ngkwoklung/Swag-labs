@@ -1,4 +1,4 @@
-package com.sparta.jl.pom.pages.CheckoutPage;
+package com.sparta.jng.pages.CheckoutPage;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

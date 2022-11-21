@@ -1,14 +1,14 @@
 package com.sparta.jl.tests;
 
 import com.sparta.jl.pom.POMUtils;
-import com.sparta.jl.pom.drivers.DriverFactory;
-import com.sparta.jl.pom.drivers.DriverOptions;
-import com.sparta.jl.pom.pages.CartPage;
-import com.sparta.jl.pom.pages.CheckoutPage.CheckoutCompletePage;
-import com.sparta.jl.pom.pages.CheckoutPage.CheckoutStepOnePage;
-import com.sparta.jl.pom.pages.CheckoutPage.CheckoutStepTwoPage;
-import com.sparta.jl.pom.pages.HomePage;
-import com.sparta.jl.pom.pages.LoginPage;
+import com.sparta.jng.drivers.DriverFactory;
+import com.sparta.jng.drivers.DriverOptions;
+import com.sparta.jng.pages.CartPage;
+import com.sparta.jng.pages.CheckoutPage.CheckoutCompletePage;
+import com.sparta.jng.pages.CheckoutPage.CheckoutStepOnePage;
+import com.sparta.jng.pages.CheckoutPage.CheckoutStepTwoPage;
+import com.sparta.jng.pages.HomePage;
+import com.sparta.jng.pages.LoginPage;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
 

@@ -1,6 +1,6 @@
-package com.sparta.jl.pom.pages;
+package com.sparta.jng.pages;
 
-import com.sparta.jl.pom.pages.CheckoutPage.CheckoutStepOnePage;
+import com.sparta.jng.pages.CheckoutPage.CheckoutStepOnePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

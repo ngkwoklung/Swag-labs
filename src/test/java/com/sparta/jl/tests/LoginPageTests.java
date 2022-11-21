@@ -1,8 +1,8 @@
 package com.sparta.jl.tests;
 import com.sparta.jl.pom.POMUtils;
-import com.sparta.jl.pom.drivers.DriverFactory;
-import com.sparta.jl.pom.drivers.DriverOptions;
-import com.sparta.jl.pom.pages.LoginPage;
+import com.sparta.jng.drivers.DriverFactory;
+import com.sparta.jng.drivers.DriverOptions;
+import com.sparta.jng.pages.LoginPage;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.WebDriver;
 public class LoginPageTests {

@@ -1,4 +1,4 @@
-package com.sparta.jl.pom.pages;
+package com.sparta.jng.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

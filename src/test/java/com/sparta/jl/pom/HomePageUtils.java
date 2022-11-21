@@ -1,12 +1,5 @@
 package com.sparta.jl.pom;
 
-import com.sparta.jl.pom.pages.HomePage;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-
-import java.util.Arrays;
-import java.util.List;
-
 public class HomePageUtils {
     public static boolean PriceIsAscending (Double[] priceList) {
         return isSortedAscendingArray(priceList, priceList.length);

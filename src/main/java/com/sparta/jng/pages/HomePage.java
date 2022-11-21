@@ -1,4 +1,4 @@
-package com.sparta.jl.pom.pages;
+package com.sparta.jng.pages;
 
 import com.sparta.jl.pom.HomePageUtils;
 import org.openqa.selenium.By;

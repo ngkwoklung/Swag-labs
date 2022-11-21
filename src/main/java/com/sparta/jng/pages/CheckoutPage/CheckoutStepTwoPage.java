@@ -1,9 +1,9 @@
-package com.sparta.jl.pom.pages.CheckoutPage;
+package com.sparta.jng.pages.CheckoutPage;
 
-import com.sparta.jl.pom.pages.CartPage;
-import com.sparta.jl.pom.pages.HomePage;
-import com.sparta.jl.pom.pages.LoginPage;
-import com.sparta.jl.pom.pages.NavigationPage;
+import com.sparta.jng.pages.CartPage;
+import com.sparta.jng.pages.HomePage;
+import com.sparta.jng.pages.LoginPage;
+import com.sparta.jng.pages.NavigationPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
